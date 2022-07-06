@@ -1,8 +1,11 @@
-### Olá, Me chamo Juvan José
-
-- 🔭 Trabalho atualmente como web design usando ferramentas NoCode/LowCode
-- 🌱 Estudando JS,HTML e CSS
-- 📫 How to reach me: juvan2002@gmail.com
+<div>
+  <h1 align="center">Oi Tudo bem? Me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Juvan José</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web e trabalho com web design usando ferramentas NoCode/LowCode <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+  </a><br>
+  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/Juvanjose">
