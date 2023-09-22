@@ -3,7 +3,7 @@
   <p align="center">Sou estudante Fullstack e apaixonado por tecnologia
 </div>
 
-<div style="text-align: center;"align= "center">
+<div style="text-align: center;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Juvanjose&show_icons=true&theme=synthwave"
@@ -35,13 +35,13 @@
   <a href = "mailto:juvan2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juvan-josé-da-silva-757661200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<div align="center">
+<div style="text-align: center;">
   
   ![Snake animation](https://github.com/Juvanjose/Juvanjose/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
