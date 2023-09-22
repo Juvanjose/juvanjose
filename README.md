@@ -37,7 +37,7 @@
  
 <div align = "center">
   
-  [![Snake animation](https://github.com/Juvanjose/Juvanjose/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk.git)
+  (https://github.com/Platane/snk.git)
   
 </div>
 
