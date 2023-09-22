@@ -38,12 +38,12 @@
   
  
 <div align = "center" >
-  <!--<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>-->
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
   
@@ -53,3 +53,5 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
