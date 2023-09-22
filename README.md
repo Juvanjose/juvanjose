@@ -3,7 +3,7 @@
   <p align="center">Sou estudante Fullstack e apaixonado por tecnologia
 </div>
 
-<div text-align = "center">
+<div style="text-align: center;"align= "center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Juvanjose&show_icons=true&theme=synthwave"
