@@ -27,7 +27,7 @@
   
   ##
   
-  <div align = "center"> 
+  <div align = "center" style = "margin: 10px auto 10px auto"> 
   <!--a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a-->
   <!--a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a-->
  	<!--a href="https:" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a-->
@@ -35,7 +35,7 @@
   <a align = "center" href = "mailto:juvan2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juvan-josé-da-silva-757661200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<div align = "center" style = "margin: 10px auto 10px auto">
+<div align = "center" >
   
   
 </div>
