@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Me chamo <a href="https://www.linkedin.com/in/juvan-josé-da-silva-757661200/"><i>Juvan José</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web e trabalho com web design usando ferramentas NoCode/LowCode.
+  <p align="center">Sou estudante Fullstack e apaixonado por tecnologia
 </div>
 
 <div align="center">
