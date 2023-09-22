@@ -3,7 +3,7 @@
   <p align="center">Sou estudante Fullstack e apaixonado por tecnologia
 </div>
 
-<div>
+<div align = "center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Juvanjose&show_icons=true&theme=synthwave"
@@ -37,8 +37,7 @@
  
 <div align="center">
   
-  <!--![Snake animation](https://github.com/Juvanjose/Juvanjose/blob/output/github-contribution-grid-snake.svg)-->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juvanjose)](https://github.com/Juvanjose/github-readme-stats)
+  ![Snake animation](https://github.com/Juvanjose/Juvanjose/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
